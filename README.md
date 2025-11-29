@@ -1,17 +1,29 @@
 👋 Hi, I'm **Muddassir Mulla**
 
-Aspiring Data Analyst | Sports Analytics | Academic Analytics
-Turning raw data into insights for decision-making in sports, education, and business analytics.
+Data Analyst | Sports Analytics | Academic Insights | Business Intelligence
 
-**About Me**
+I transform raw data into clear insights that improve decision-making, performance, and operational efficiency.
+With strong analytical skills and real-world coaching experience, I specialize in Sports Analytics, Academic Analytics, and Business/Data Analytics.
 
-I’m a data analyst skilled in data cleaning, visualization, dashboarding, automation, and insight storytelling.
-My background as an AIFF D-License Football Coach and School Sports Teacher helps me build analytics projects that solve real-world operational problems—from player selection and performance evaluation to student academic improvement.
+ 📌**About Me**
 
-I focus on creating end-to-end, practical analytics projects that demonstrate real business impact.
+I am an entry-level Data Analyst skilled in end-to-end workflows—from data cleaning and processing to dashboarding and insight storytelling.
 
-**Core Skills**
-Data Analytics & Processing
+My unique background as an AIFF D-License Football Coach and School Sports Teacher gives me strong domain expertise in:
+
+Player performance metrics
+
+Training analytics
+
+Student performance insights
+
+Operational improvements and business KPIs
+
+I build practical, business-oriented projects that demonstrate real value for teams, organizations, and decision-makers.
+
+🛠 **Core Skills**
+
+**Data Analytics & Processing**
 
 Excel, Google Sheets
 
@@ -19,72 +31,85 @@ SQL (Joins, Aggregations, CTEs, Window Functions)
 
 Python (Pandas, NumPy, Matplotlib)
 
-ETL, Data Cleaning, Exploratory Data Analysis
+ETL Pipelines, Data Cleaning, EDA
 
-**BI & Visualization**
+**Business Intelligence & Visualization**
 
 Power BI
 
 Tableau
 
+Google Looker Studio
+
 Excel Dashboards
 
 **Data Concepts**
 
-KPI Design
+KPI Development
+
+Reporting & Insight Generation
 
 Data Modeling
 
-Reporting & Insights
-
 Business Problem Solving
 
-Domain Expertise
+**Domain Expertise**
 
-Sports Analytics (Player stats, training metrics, squad optimization)
+Sports Analytics (player metrics, performance KPIs, squad optimization)
 
-Academic Analytics (Student scoring trends, performance improvement)
+Academic Analytics (student scoring trends, strengths/weaknesses analysis)
 
-Customer Analytics (Spending patterns, segmentation, product insights)
+Customer Analytics (spending patterns, segmentation, product analysis)
 
- **Featured Project**
-🛒 Customer Shopping Behavior Analysis
+⭐ **Featured Project** (Completed)
 
-Tools: Python, Pandas, SQL, Power BI
+🛒 **Customer Shopping Behavior Analysis**
 
-Cleaned and analyzed 3,900+ retail transaction records
+Tools: Python, Pandas, NumPy, SQL, Power BI
 
-Identified insights on spend distribution, discount patterns & product categories
+**Highlights:**
 
-Designed dashboards with KPIs and segment views
+Cleaned & analyzed 3,900+ retail transactions
 
-Built an insight summary for business recommendations
+Identified key trends in spending behavior, discounts & product categories
 
-**🔗 View Project:**
+Built KPI-focused Power BI dashboard
+
+Provided actionable insights for better marketing & inventory decisions
+
+🔗 **Repository:**
 github.com/Maverick-M369/Customer_Shopping_Behavior_Analysis
 
-**📂 Portfolio Projects**
-⚽ 1. Football Player Performance Dashboard (In Progress)
+📂 **Portfolio Projects** (In Progress)
 
-Objective: Track KPIs like stamina, pace, dribbling, passing, discipline, and attendance.
-Outcome: Helps Radiant Rovers Academy improve player development & session planning.
+⚽ **1. Football Player Performance Dashboard**
 
-⚽ 2. Best XI Team Selection Model (Football Squad Optimization) (In Progress)
+A data-driven performance monitoring system for Radiant Rovers Academy players.
+KPIs: Stamina, Pace, Dribbling, Passing, Discipline, Attendance
+Outcome: Helps coaches plan training schedules & analyze player development.
 
-Objective: Use weighted performance metrics to recommend the strongest squad.
-Outcome: Data-driven team selection for training & matches.
+🏆 **2. Best XI Squad Selection Model**
 
-🎓 3. Academic Performance Monitoring System (In Progress)
+A weighted selection model recommending the strongest starting lineup using performance scores.
+Outcome: Objective, data-supported decision-making for matches & tournaments.
 
-Objective: Analyze student marks to identify weak subjects, improvement areas & trends.
-Outcome: Helps teachers plan better interventions and improve student outcomes.
+🎓 **3. Academic Performance Monitoring System**
 
-📈 4. More Upcoming Projects 
+Dashboard analyzing student marks, weaknesses, trends & improvement areas.
+Outcome: Enables teachers to plan better interventions and track academic growth.
 
-**🤖 AI Tools I Use**
+📈 **4. Additional Upcoming Projects**
 
-ChatGPT • Quadtratic AI • Copilot • Gamma AI and more
+Retail Sales Forecasting (Python + Power BI)
 
-**⭐ Like My Work?**
+SQL Case Studies & Analytics Challenges
 
-If you find my projects useful or interesting, feel free to star the repositories — it helps a lot!
+Excel Automation Dashboard
+
+🤖 **AI Tools I Use**
+
+ChatGPT • Copilot • Quadratic AI • Gamma AI • Gemini
+
+⭐ Support
+
+If you find my work helpful, please ⭐ star the repositories — it motivates me to build more high-impact analytics projects!
