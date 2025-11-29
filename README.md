@@ -1,16 +1,16 @@
-👋 Hi, I'm Muddassir Mulla
+👋 Hi, I'm **Muddassir Mulla**
 
 Aspiring Data Analyst | Sports Analytics | Academic Analytics
 Turning raw data into insights for decision-making in sports, education, and business analytics.
 
-** About Me**
+**About Me**
 
 I’m a data analyst skilled in data cleaning, visualization, dashboarding, automation, and insight storytelling.
 My background as an AIFF D-License Football Coach and School Sports Teacher helps me build analytics projects that solve real-world operational problems—from player selection and performance evaluation to student academic improvement.
 
 I focus on creating end-to-end, practical analytics projects that demonstrate real business impact.
 
-** Core Skills**
+**Core Skills**
 Data Analytics & Processing
 
 Excel, Google Sheets
@@ -47,7 +47,7 @@ Academic Analytics (Student scoring trends, performance improvement)
 
 Customer Analytics (Spending patterns, segmentation, product insights)
 
-** **Featured Project****
+ **Featured Project**
 🛒 Customer Shopping Behavior Analysis
 
 Tools: Python, Pandas, SQL, Power BI
